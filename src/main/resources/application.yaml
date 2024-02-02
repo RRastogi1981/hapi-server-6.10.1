@@ -57,6 +57,8 @@ hapi:
     ### Flag is false by default, can be passed as command line argument to override.
     cr:
       enabled: true
+      caregaps_section_author: Organization/alphora-author
+      caregaps_reporter: Organization/alphora
 
     cdshooks:
       enabled: true
